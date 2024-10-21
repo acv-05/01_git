@@ -27,7 +27,3 @@ for (draw.depth in seq(1, 2^depth, length = 20)) {
        main="Sierpinski Triangle")
 }
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/graphics
